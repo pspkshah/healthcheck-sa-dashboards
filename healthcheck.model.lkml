@@ -1,3 +1,3 @@
-connection: "adani_api_tenant_preprod"
+connection: "bigquery_preprod"
 
 include: "/dashboards/*.dashboard.lookml"
